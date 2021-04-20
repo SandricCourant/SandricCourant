@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SandricCourant
 - 👀 I’m interested in videogames and softwares developments 
-- 🌱 I’m currently learning css and httml5
+- 🌱 I’m currently learning CSS and HTML5
 - 📫 Contact me at my e-mail adress "sandric.courant@gmail.com"
 
 <!---
