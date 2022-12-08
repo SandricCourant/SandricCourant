@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SandricCourant
 - 👀 I’m interested in videogames
-- 🌱 I’m currently in software development training
+- 🌱 I’m currently in software development training at Alt-RH
 - 📫 Contact me at my e-mail adress "sandric.courant@gmail.com"
 
 <!---
