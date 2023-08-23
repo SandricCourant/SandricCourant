@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SandricCourant
-- 👀 I’m interested in videogames
+- 👀 I’m interested in anime series
 - 🌱 I’m currently in software development training at Alt-RH
 - 📫 Contact me at my e-mail adress "sandric.courant@gmail.com"
 
